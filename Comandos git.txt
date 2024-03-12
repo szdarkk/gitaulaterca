@@ -5,3 +5,5 @@ git add . (comando pra validar as alterações feitas na pasta)
 git commit -m "descrição" (comando especificando uma nova versão)
 
 git push origin main (comando pra subir as alterações pro site)
+
+git clone (clona o repositorio)
