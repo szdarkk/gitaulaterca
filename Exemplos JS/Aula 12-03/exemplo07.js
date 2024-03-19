@@ -1,3 +1,5 @@
+calcularIMC(70, 1.75);
+
 function calcularIMC(locPeso, locAltura) {
     let imc = locPeso / (locAltura ** 2);
     imc = locPeso / (locAltura ** 2);
@@ -49,4 +51,3 @@ function calcularIMC(locPeso, locAltura) {
         console.log("Insira um valor válido");
     }
 }
-    resultadoIMC = imc.toFixed(2);
